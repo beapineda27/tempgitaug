@@ -10,4 +10,5 @@ another paragraph
 <h1>Hello again universe</h1>
 ```
 
-![a picture that looks like my dog](images/alaskan-malamute-1.jpeg)
+![alt text](![image](https://user-images.githubusercontent.com/110372601/182181448-5369bf3e-055e-4220-8dcf-fc4e4513803e.png))
+
